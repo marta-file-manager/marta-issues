@@ -1,5 +1,3 @@
-# Marta Issue Tracker
-
 <p align="center">
 <img alt="Marta Logo" src="/logo.png" width="329" height="167" />
 </p>
@@ -8,7 +6,7 @@ Marta is a file manager for macOS. It is very fast, highly configurable, and sup
 
 You can read more about Marta on its official site: <https://marta.yanex.org/>. Come get some!
 
-## Tracker status
+## Marta Issue Tracker
 
 This tracker was created to allow Marta users report bugs and submit feature requests.
 

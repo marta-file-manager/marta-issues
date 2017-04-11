@@ -1,6 +1,8 @@
 # Marta Issue Tracker
 
+<p align="center">
 <img alt="Marta Logo" src="/logo.png" width="329" height="167" />
+</p>
 
 Marta is a file manager for macOS. It is very fast, highly configurable, and supports themes and plugins.
 

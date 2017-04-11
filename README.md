@@ -1,6 +1,7 @@
 # Marta Issue Tracker
 
-Marta is a file manager for macOS. It is very fast, highly configurable, and supports themes and plugins.  
+Marta is a file manager for macOS. It is very fast, highly configurable, and supports themes and plugins.
+
 You can read more about Marta on its official site: <https://marta.yanex.org/>. Come get some!
 
 ## Tracker status

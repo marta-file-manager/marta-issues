@@ -1,10 +1,10 @@
 <p align="center">
-<img alt="Marta Logo" src="/logo.png" width="329" height="167" />
+	<img alt="Marta Logo" src="/logo.png" width="559" height="309" />
 </p>
 
 Marta is a file manager for macOS. It is very fast, highly configurable, and supports themes and plugins.
 
-You can read more about Marta on its official site: <https://marta.yanex.org/>. Come get some!
+You can read more about Marta on its official site: <https://marta.sh/>. Come get some!
 
 ## Marta Issue Tracker
 

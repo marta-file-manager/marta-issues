@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="Marta Logo" src="/logo.png" width="559" height="309" />
+	<img alt="Marta Logo" src="/logo.png" width="559" />
 </p>
 
 Marta is a file manager for macOS. It is very fast, highly configurable, and supports themes and plugins.
